@@ -22,3 +22,5 @@ O Instagram contém nove imagens selecionadas manualmente e links para o perfil;
 WhatsApp configurado exatamente como fornecido: https://wa.me/553194184748. Confirme o recebimento das mensagens antes do lançamento público.
 
 As fontes são carregadas do Google Fonts, com alternativas locais de fallback.
+
+Atualização de conteúdo: biografia de 8 anos de profissão, estúdio no Guarani, orientações para ensaios, condições de reserva, escolha e entrega das fotos e perguntas frequentes. Informações fornecidas pela fotógrafa. Categorias adicionadas: aniversário, Smash the Cake e família.
